@@ -1,0 +1,17 @@
+
+# Java compiled files
+*.class
+out/
+bin/
+
+# VS Code local workspace files
+.vscode/
+
+# Local secrets and environment files
+.env
+config.properties
+secrets.properties
+
+# Operating system files
+.DS_Store
+Thumbs.db
